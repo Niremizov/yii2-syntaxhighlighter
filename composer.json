@@ -1,12 +1,12 @@
 {
 	"name": "niremizov/yii2-syntaxhighlighter",
-    "type": "yii2-extension",
+	"type": "yii2-extension",
 	"description": "Syntax Highlighter for Yii 2",
 	"keywords": ["syntaxhighlighter", "yii2"],
 	"license": "MIT License",
-    "support": {
-        "source": "https://github.com/niremizov/yii2-syntaxhighlighter"
-    },
+	"support": {
+        	"source": "https://github.com/niremizov/yii2-syntaxhighlighter"
+	},
 	"authors": [
 		{
 			"name": "Giovanni Derks",
@@ -21,7 +21,7 @@
 		"php": ">=5.4.0",
 		"yiisoft/yii2": "*"
 	},
-    "autoload": {
-        "psr-4": { "niremizov\\yii2SyntaxHighlighter\\": "" }
-    }
+	"autoload": {
+        	"psr-4": { "niremizov\\yii2SyntaxHighlighter\\": "" }
+	}
 }
