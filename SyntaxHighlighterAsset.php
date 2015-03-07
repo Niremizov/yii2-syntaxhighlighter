@@ -1,6 +1,6 @@
 <?php
 
-namespace giovdk21\yii2SyntaxHighlighter;
+namespace niremizov\yii2SyntaxHighlighter;
 
 use yii\web\AssetBundle as AssetBundle;
 use yii;
