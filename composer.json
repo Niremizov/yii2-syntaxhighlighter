@@ -1,16 +1,20 @@
 {
-	"name": "giovdk21/yii2-syntaxhighlighter",
+	"name": "niremizov/yii2-syntaxhighlighter",
     "type": "yii2-extension",
 	"description": "Syntax Highlighter for Yii 2",
 	"keywords": ["syntaxhighlighter", "yii2"],
 	"license": "MIT License",
     "support": {
-        "source": "https://github.com/giovdk21/yii2-syntaxhighlighter"
+        "source": "https://github.com/niremizov/yii2-syntaxhighlighter"
     },
 	"authors": [
 		{
 			"name": "Giovanni Derks",
 			"homepage": "http://derks.me.uk/"
+		},
+		{
+			"name": "Niremizov",
+			"homepage": "http://golbin.ru/"
 		}
 	],
 	"require": {
@@ -18,6 +22,6 @@
 		"yiisoft/yii2": "*"
 	},
     "autoload": {
-        "psr-4": { "giovdk21\\yii2SyntaxHighlighter\\": "" }
+        "psr-4": { "niremizov\\yii2SyntaxHighlighter\\": "" }
     }
 }
